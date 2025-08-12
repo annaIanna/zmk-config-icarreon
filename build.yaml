@@ -21,4 +21,6 @@
 include:
   - board: nice_nano_v2
     shield: carreon_main
+  - board: nice_nano_v2
+    shield: carreon_main2
 
